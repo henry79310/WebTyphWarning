@@ -1,0 +1,2 @@
+# WebTyphWarning
+Nothing to say
